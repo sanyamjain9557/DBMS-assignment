@@ -1,3 +1,15 @@
+/*
+
+Print any given inputString in following format.
+
+Output
+
+index:  0    1   2   3   4   
+chars:  H    e   l   l   o
+
+Every character is separated by tab, use "\t" for inserting tab.
+*/
+
 import java.util.Scanner;
 public class Assign {
     
